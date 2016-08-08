@@ -21,8 +21,7 @@ rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
 
 #EXTINF:0,CMTV
-rtmp://85.17.20.70/stream playPath=gareerga?id=27078&pk=c29319f8ccc4c4eb32e451edd8e7d38421bdf9c2199dbd1c214b980a5db3784f swfVfy=1 timeout=10 conn=S:OK live=true swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf flashver=WIN\2021,0,0,242 pageUrl=http://www.liveflashplayer.net/embedplayer/gareerga/1/599/399
-
+http://163.172.24.207/loadbalance/14754455842767291813/chunks.m3u8
 
 #EXTINF:0,GLOBO PT
 http://149.202.194.36:8000/live/dary/dary/102.ts
