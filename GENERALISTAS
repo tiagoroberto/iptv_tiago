@@ -51,7 +51,8 @@ rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch1016h264H14 s
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://kodiportugal.pt swfVfy=1 live=1 timeout=15
 
 
-
+#EXTINF:0,SPORTV 1
+rtmp://31.220.0.201/privatestream/ playpath=fawergge?keys=tCf-BD3YrFSXQKiSWTZ7Cw&keyt=1471460432 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf pageUrl=http://privatestream.tv/player?streamname=fawergge&width=650&height=500 conn=S:OK
 
 
 
