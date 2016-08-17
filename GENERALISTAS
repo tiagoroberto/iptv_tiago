@@ -54,9 +54,10 @@ rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUr
 #EXTINF:0,SPORTV 1
 rtmp://31.220.0.201/privatestream/ playpath=fawergge?keys=tCf-BD3YrFSXQKiSWTZ7Cw&keyt=1471460432 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf pageUrl=http://privatestream.tv/player?streamname=fawergge&width=650&height=500 conn=S:OK
 
+#EXTINF:0,SPORTV 2
+rtmp://31.220.40.61/privatestream/<playpath>he56t5r6?keys=2iATbEkZ4AfQJX21b0Qfiw&keyt=1471460685 swfUrl0http://privatestream.tv/js/jwplayer.flash.swf pageUrl=http://privatestream.tv/player?streamname=he56t5r6&width=650&height=500 conn=S:OK
 
-
-
+#EXTINF:0,SPORTV 3
 
 
 
