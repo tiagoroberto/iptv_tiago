@@ -30,7 +30,8 @@ http://149.202.194.36:8000/live/dary/dary/102.ts
 rtmp://178.162.199.155/live playpath=sicm02?id=85250&pk=c29319f8ccc4c4eb32e451edd8e7d38421bdf9c2199dbd1c214b980a5db3784f swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf live=1 pageUrl=http://www.embeducaster.com/embedplayer/sicm02/1/650/500 conn=S:OK
 
 #EXTINF:0,TVI REALITY
-rtmp://109.123.116.36/live playPath=lot23wsalot?id=251240&pk=c29319f8ccc4c4eb32e451edd8e7d38421bdf9c2199dbd1c214b980a5db3784f swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf live=1 pageUrl=http://www.mipsplayer.com/embedplayer/lot23wsalot/1/545/380 conn=S:OK
+rtmp://107.182.234.180/live playpath=Realityzito?id=23967&pk=c29319f8ccc4c4eb32e451edd8e7d38421bdf9c2199dbd1c214b980a5db3784f swfUrl=http://www.streamifyplayer.com/resources/scripts/eplayer.swf pageUrl=http://www.streamifyplayer.com/embedplayer/Realityzito/1/540/442 conn=S:OK
+
 
 #EXTINF:0,PORTO CANAL
 http://213.13.26.11:1935/live/portocanal/live.m3u8
