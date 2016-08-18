@@ -2,10 +2,10 @@
 #EXTINF:0,EURONEWS
 http://euronews-live-p5-cdn.hexaglobe.net/c82b95f517f5590a8e55f5f34cc92c48/57a85a00/euronews/ewnslivebkp_por.smil/ewnslivebkp_por_540p.m3u8
 
-#EXTINF:0,EURONEWS
+#EXTINF:0,RECORD NEWS
 http://192.99.148.73:8080/live/ultramidia/ultramidia/69.m3u8
 
-
+#EXTINF:0,ECONOMICO TV
 rtmp://213.13.26.43/live playpath=etv_direto <swfUrl>http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 pageUrl=http://www.tvdesporto.info/economicotv.php conn=S:OK
 
 
