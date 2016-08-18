@@ -1,53 +1,53 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/rtp_1_85x70.jpg" , RTP 1
+#EXTINF:0 tvg-logo="http://tiagostv.pe.hu/rtp1" , RTP 1
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15
 
-#EXTINF:0,RTP 2
+#EXTINF:0 tvg-logo="http://tiagostv.pe.hu/rtp2" , RTP 2
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp2?mag swfVfy=1 live=1 timeout=15
 
-#EXTINF:0,SIC
+#EXTINF:0 tvg-logo="http://tiagostv.pe.hu/sic" , SIC
 rtmp://178.162.193.26/stream playpath=SIC7373737311?id=27442&pk=c29319f8ccc4c4eb32e451edd8e7d38421bdf9c2199dbd1c214b980a5db3784f swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf   live=1  pageUrl=http://www.liveflashplayer.net/embedplayer/SIC7373737311/1/565/440 conn=S:OK
 
-#EXTINF:0,TVI
+#EXTINF:0 tvg-logo="http://tiagostv.pe.hu/tvi" , TVI
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
 
-#EXTINF:0,SIC NOTICIAS
+#EXTINF:0 tvg-logo="http://tiagostv.pe.hu/sicnoticias" , SIC NOTICIAS
 rtmp://213.13.26.43/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 pageUrl=http://tviol.com/tv/sicnoticias.html
 
-#EXTINF:0,RTP 3
+#EXTINF:0 tvg-logo="http://tiagostv.pe.hu/rtp3" , RTP 3
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp3?mag swfVfy=1 live=1 timeout=15
 
-#EXTINF:0,TVI 24
+#EXTINF:0 tvg-logo="http://tiagostv.pe.hu/tvi24" , TVI 24
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
 
-#EXTINF:0,CMTV
+#EXTINF:0 tvg-logo="http://tiagostv.pe.hu/cmtv" ,CMTV
 http://163.172.24.207/loadbalance/14754455842767291813/chunks.m3u8
 
-#EXTINF:0,GLOBO PT
+#EXTINF:0 tvg-logo="http://tiagostv.pe.hu/globo" , GLOBO PT
 http://149.202.194.36:8000/live/dary/dary/102.ts
 
-#EXTINF:0,SIC MULHER
+#EXTINF:0 tvg-logo="http://tiagostv.pe.hu/sicmulher" , SIC MULHER
 rtmp://178.162.199.155/live playpath=sicm02?id=85250&pk=c29319f8ccc4c4eb32e451edd8e7d38421bdf9c2199dbd1c214b980a5db3784f swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf live=1 pageUrl=http://www.embeducaster.com/embedplayer/sicm02/1/650/500 conn=S:OK
 
-#EXTINF:0,TVI REALITY
+#EXTINF:0 tvg-logo="http://tiagostv.pe.hu/tvireality" , TVI REALITY
 rtmp://107.182.234.180/live playpath=Realityzito?id=23967&pk=c29319f8ccc4c4eb32e451edd8e7d38421bdf9c2199dbd1c214b980a5db3784f swfUrl=http://www.streamifyplayer.com/resources/scripts/eplayer.swf pageUrl=http://www.streamifyplayer.com/embedplayer/Realityzito/1/540/442 conn=S:OK
 
-
-#EXTINF:0,PORTO CANAL
+#EXTINF:0 tvg-logo="http://tiagostv.pe.hu/portocanal" , PORTO CANAL
 http://213.13.26.11:1935/live/portocanal/live.m3u8
 
-#EXTINF:0,SIC CARAS
+#EXTINF:0 tvg-logo="http://tiagostv.pe.hu/siccaras" , SIC CARAS
 http://www.t12v.com:8000/live/prevot/prevot/1422.ts
 
-#EXTINF:0,SIC RADICAL
+#EXTINF:0 tvg-logo="http://tiagostv.pe.hu/sicradical" , SIC RADICAL
 
-#EXTINF:0,RTP MEMORIA
+
+#EXTINF:0 tvg-logo="http://tiagostv.pe.hu/rtpmemoria" , RTP MEMORIA
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch80h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://kodiportugal.pt swfVfy=1 live=1 timeout=15
 
-#EXTINF:0,RTP MADEIRA
+#EXTINF:0 tvg-logo="http://tiagostv.pe.hu/rtpmadeira" , RTP MADEIRA
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch1016h264H14 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://kodiportugal.pt swfVfy=1 live=1 timeout=15
 
-#EXTINF:0,RTP AÇORES
+#EXTINF:0 tvg-logo="http://tiagostv.pe.hu/rtpazores" , RTP AÇORES
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://kodiportugal.pt swfVfy=1 live=1 timeout=15
 
 
