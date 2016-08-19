@@ -73,7 +73,7 @@ rtmp://31.220.2.87/privatestream/ playpath=dddd4uedifoekds?keys=g217QURsqkTkFPQB
 http://cdn.widestream.io:8081/shareedge/push-merda4-rp4un/chunks.m3u8?nimblesessionid=3195760&wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDE2IDc6MDI6MTMgUE0maGFzaF92YWx1ZT0zSXc4K2p3Y2N5UlM2dk9DMG4wMjNnPT0mdmFsaWRtaW51dGVzPTIw
 
 #EXTINF:-0 tvg-id="BenficaTV.pt" tvg-logo="http://tiagostv.pe.hu/btv1" ,BENFICA TV
-rtmp://62.212.82.81/live playpath=slboeri?id=251241&pk=c29319f8ccc4c4eb32e451edd8e7d38421bdf9c2199dbd1c214b980a5db3784f swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf pageUrl=http://www.mipsplayer.com/embedplayer/slboeri/1/555/442
+rtmp://31.220.0.187/privatestream/gergtrg?keys=NU4qltlc2xuy7XAZt7hg3A&keyt=1470068995 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=gergtrg&width=630&height=510
 
 #EXTINF:-0 tvg-logo="http://tiagostv.pe.hu/racinguk" , RACING UK
 http://46.166.148.118:8081/live/196429.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDE2IDY6MjI6NTIgUE0maGFzaF92YWx1ZT0vUWZUVzFPT0ovcGUzcGw4TEdZWlB3PT0mdmFsaWRtaW51dGVzPTYw&wmsAuthSign2=NTVjMjU4NGQ3NzZlNQ==
