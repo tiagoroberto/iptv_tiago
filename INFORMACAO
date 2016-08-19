@@ -2,19 +2,39 @@
 #EXTINF:0,EURONEWS
 http://euronews-live-p5-cdn.hexaglobe.net/c82b95f517f5590a8e55f5f34cc92c48/57a85a00/euronews/ewnslivebkp_por.smil/ewnslivebkp_por_540p.m3u8
 
-#EXTINF:0,RECORD NEWS
-http://192.99.148.73:8080/live/ultramidia/ultramidia/69.m3u8
+#EXTINF:0 tvg-logo="http://tiagostv.pe.hu/rtpafrica",RTP AFRICA
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live<playpath>2ch27h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtpafrica
+
+#EXTINF:0,STV 
+http:// 213.81.153.241/live001/channel001_p5.stream/DVR.m3u8v
 
 #EXTINF:0,ECONOMICO TV
 http://213.13.26.41:1935/live/etv_direto/media_w54460224_213847.ts
 
+#EXTINF:0,EURONEWS
 
 
+#EXTINF:0,EURONEWS
 
 
+#EXTINF:0,EURONEWS
 
 
+#EXTINF:0 tvg-logo="http://tiagostv.pe.hu/cnn",CNN
+http://149.255.152.110:80/cnn/index.m3u8
+
+#EXTINF:0 tvg-logo="http://tiagostv.pe.hu/skynews",SKY NEWS
 
 
+#EXTINF:0 tvg-logo="http://tiagostv.pe.hu/bbcwnews",BBC WORLD NEWS
+
+
+#EXTINF:0 tvg-logo="http://tiagostv.pe.hu/aljazeera",ALJAZEERA
+
+
+#EXTINF:0 tvg-logo="http://tiagostv.pe.hu/france24",FRANCE 24
+http://f24hls-i.akamaihd.net:80/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+
+#EXTINF:0,EURONEWS
 
 
