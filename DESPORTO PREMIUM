@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://auvaromaia.com/wp-content/uploads/2013/04/Pfc1.jpg" group-title="ESPORTES",PREMIERE 1
+http://art.nextv.ca/nextv/pfci/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://auvaromaia.com/wp-content/uploads/2013/04/Pfc1.jpg" group-title="ESPORTES",PREMIERE 2 
+http://213.163.65.9:8081/live/pfct/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://auvaromaia.com/wp-content/uploads/2013/04/Pfc1.jpg" group-title="ESPORTES",PREMIERE 3
+http://31.204.152.6:8081/live/pfc2/playlist.m3u8
