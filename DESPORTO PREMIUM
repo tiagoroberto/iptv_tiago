@@ -3,16 +3,16 @@
 #EXTINF:-1 tvg-logo="http://tiagostv.pe.hu/sportv1" ,SPORTV 1
 http://cdn.widestream.io:8081/shareedge/push-live1-rbi6c/chunks.m3u8?id=4513264&wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDE2IDEyOjI1OjMwIFBNJmhhc2hfdmFsdWU9WGkwZ1FMd0hxZGdqT1hLUTdCdGpjQT09JnZhbGlkbWludXRlcz0yMA==
 
-#EXTINF:-1 tvg-logo="" ,SPORTV 2
+#EXTINF:-1 tvg-logo="http://tiagostv.pe.hu/sportv2" ,SPORTV 2
 http://cdn.widestream.io:8081/shareedge/push-live2-bipmr/chunks.m3u8?id=4513338&wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDE2IDEyOjI4OjM1IFBNJmhhc2hfdmFsdWU9ZWw4cUpHM0xYOU1CZVh3S00xWnUvZz09JnZhbGlkbWludXRlcz0yMA==
 
-#EXTINF:-1 tvg-logo="" ,SPORTV 3
+#EXTINF:-1 tvg-logo="http://tiagostv.pe.hu/sportv3" ,SPORTV 3
 http://cdn.widestream.io:8081/shareedge/push-live3-qszlx/chunks.m3u8?id=4513388&wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDE2IDEyOjMxOjA5IFBNJmhhc2hfdmFsdWU9QXMzTTd2ZDJCY09HanlXK1l6VmlTZz09JnZhbGlkbWludXRlcz0yMA==
 
-#EXTINF:-1 tvg-logo="" ,SPORTV 4
+#EXTINF:-1 tvg-logo="http://tiagostv.pe.hu/sportv4" ,SPORTV 4
 rtmp://31.220.2.87/privatestream/ playpath=dddd4uedifoekds?keys=g217QURsqkTkFPQBW5gz7Q&keyt=1471624436 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf pageUrl=http://privatestream.tv/player?streamname=dddd4uedifoekds&width=555&height=440 conn=S:OK
 
-#EXTINF:-1 tvg-logo="" ,SPORTV 5
+#EXTINF:-1 tvg-logo="http://tiagostv.pe.hu/sportv5" ,SPORTV 5
 http://cdn.widestream.io:8081/shareedge/push-live4-w04by/chunks.m3u8?id=4513424&wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDE2IDEyOjMzOjE3IFBNJmhhc2hfdmFsdWU9UWlkaWVITk1nT0VKRUpCbU1XVHppdz09JnZhbGlkbWludXRlcz0yMA==
 
 
