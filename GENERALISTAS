@@ -75,8 +75,8 @@ http://cdn.widestream.io:8081/shareedge/push-live4-w04by/chunks.m3u8?id=4513424&
 #EXTINF:-0 tvg-id="BenficaTV.pt" tvg-logo="http://tiagostv.pe.hu/btv1" ,BENFICA TV
 rtmp://178.162.202.6/live playpath=slboeri?id=251241&pk=c29319f8ccc4c4eb32e451edd8e7d38421bdf9c2199dbd1c214b980a5db3784f <swfUrl>http://www.mipsplayer.com/content/scripts/fplayer.swf <pageUrl>http://www.mipsplayer.com/embedplayer/slboeri/1/555/442
 
-#EXTINF:-0 tvg-logo="http://tiagostv.pe.hu/attheraces" , AT THE RACES
-http://46.166.139.107:8081/live/55c25831b1801-101662740.ts?id=9153595&wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDE2IDY6MTM6MzggUE0maGFzaF92YWx1ZT1aeEZPOXRXeHFhV05WY0xKNWpCbVp3PT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:-0 tvg-logo="http://tiagostv.pe.hu/racinguk" , RACING UK
+http://46.166.148.118:8081/live/196429.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDE2IDY6MjI6NTIgUE0maGFzaF92YWx1ZT0vUWZUVzFPT0ovcGUzcGw4TEdZWlB3PT0mdmFsaWRtaW51dGVzPTYw&wmsAuthSign2=NTVjMjU4NGQ3NzZlNQ==
 
 #EXTINF:-0 tvg-logo="http://tiagostv.pe.hu/attheraces" , AT THE RACES test
 http://46.166.139.107:8081/live/196428.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDE2IDY6MTM6MzggUE0maGFzaF92YWx1ZT1aeEZPOXRXeHFhV05WY0xKNWpCbVp3PT0mdmFsaWRtaW51dGVzPTYw&wmsAuthSign2=NTVjMjU4MzFiMTgwMQ==
