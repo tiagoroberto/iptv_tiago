@@ -11,13 +11,10 @@ http:// 213.81.153.241/live001/channel001_p5.stream/DVR.m3u8v
 #EXTINF:0,ECONOMICO TV
 http://213.13.26.41:1935/live/etv_direto/media_w54460224_213847.ts
 
-#EXTINF:0,EURONEWS
+#EXTINF:0 tvg-logo="http://tiagostv.pe.hu/rainews",RAINEWS 24
 
 
-#EXTINF:0,EURONEWS
-
-
-#EXTINF:0,EURONEWS
+#EXTINF:0 tvg-logo="",EURONEWS
 
 
 #EXTINF:0 tvg-logo="http://tiagostv.pe.hu/cnn",CNN
@@ -35,6 +32,26 @@ http://149.255.152.110:80/cnn/index.m3u8
 #EXTINF:0 tvg-logo="http://tiagostv.pe.hu/france24",FRANCE 24
 http://f24hls-i.akamaihd.net:80/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 
-#EXTINF:0,EURONEWS
+#EXTINF:0 tvg-logo="http://tiagostv.pe.hu/cnbc",CNBC
+
+
+#EXTINF:0 tvg-logo="http://tiagostv.pe.hu/bloomberg",BLOOMBERG
+
+
+#EXTINF:0 tvg-logo="http://tiagostv.pe.hu/tve",TVE
+
+
+#EXTINF:0 tvg-logo="http://tiagostv.pe.hu/infonews",PHOENIX INFONEWS
+
+
+#EXTINF:0 tvg-logo="http://tiagostv.pe.hu/rt",RT
+
+
+#EXTINF:0 tvg-logo="http://tiagostv.pe.hu/nhkworld",NHK WORLD
+
+
+#EXTINF:0 tvg-logo="http://tiagostv.pe.hu/artv",ARTV
+
+
 
 
