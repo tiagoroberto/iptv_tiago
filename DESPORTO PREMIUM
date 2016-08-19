@@ -12,8 +12,8 @@ http://31.204.152.6:8081/live/pfc2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.horseracingsystemuk.com/wp-content/uploads/2016/02/at-the-races.jpg" , AT THE RACES
 http://37.187.248.101:8080/racinguk.stream/index.m3u8
 
-
-
+#EXTINF:-1,PT: Euronews
+http://149.202.202.101:1557/live/mix3u18/2778sDOAay/2177.ts
 
 
 
