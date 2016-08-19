@@ -29,6 +29,10 @@ http://149.202.194.36:8000/live/dary/dary/102.ts
 #EXTINF:0 tvg-logo="http://tiagostv.pe.hu/sicmulher" , SIC MULHER
 rtmp://178.162.199.155/live playpath=sicm02?id=85250&pk=c29319f8ccc4c4eb32e451edd8e7d38421bdf9c2199dbd1c214b980a5db3784f swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf live=1 pageUrl=http://www.embeducaster.com/embedplayer/sicm02/1/650/500 conn=S:OK
 
+#EXTINF:0 tvg-logo="http://tiagostv.pe.hu/fashiontv" , FASHION TV
+http://live-823.gv2.edge.filmon.com/live/21.low.stream/playlist.m3u8?id=0ad5aac39bb13fbed1a5ee95c1e0c1296f94009fa7537b41e7b4da1d76e0bd82b3494f06af1d46b67acf1bff6b9f66c4b475289e3ad9bd9e8ab47c109c6d48cb79dc4e52d3df0b23a00c5c13b55be8b267f09fa7e36003d60f99c0b1fa2e52b06e59b075d19ace57862419356c3efe9ac21e420f36314581b78fbf29c3544b356659a0baa797b42bcde4a1ae3b6b1d9095ea9cf0e0c0d136
+
+
 #EXTINF:0 tvg-logo="http://tiagostv.pe.hu/tvireality" , TVI REALITY
 rtmp://107.182.234.180/live playpath=Realityzito?id=23967&pk=c29319f8ccc4c4eb32e451edd8e7d38421bdf9c2199dbd1c214b980a5db3784f swfUrl=http://www.streamifyplayer.com/resources/scripts/eplayer.swf pageUrl=http://www.streamifyplayer.com/embedplayer/Realityzito/1/540/442 conn=S:OK
 
