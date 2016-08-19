@@ -36,7 +36,7 @@ http://f24hls-i.akamaihd.net:80/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 
 
 #EXTINF:0 tvg-logo="http://tiagostv.pe.hu/bloomberg",BLOOMBERG
-
+http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M24K.m3u8
 
 #EXTINF:0 tvg-logo="http://tiagostv.pe.hu/tve",TVE
 
@@ -45,7 +45,7 @@ http://f24hls-i.akamaihd.net:80/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 
 
 #EXTINF:0 tvg-logo="http://tiagostv.pe.hu/rt",RT
-
+http://live-1180.gv2.edge.filmon.com/live/93.low.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d300a0b885809a12d557fc30214f778a529cc40007bd36ac13aa50e8d2d38194263302243a03a7f10bebcc76943bb37db420f305eba4bda432130c984cecbb87ee3b4b29f6b25c594e7a6f00afb5e95212c6c8cc7adfa43ecaa710d69ca5cab6dd9ba429b2dfc27f426003781d364a7e1b59537f8a5ee27ec089a2be6e4396bfcf725af3ba7fa49ae7
 
 #EXTINF:0 tvg-logo="http://tiagostv.pe.hu/nhkworld",NHK WORLD
 
