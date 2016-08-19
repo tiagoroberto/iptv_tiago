@@ -89,7 +89,7 @@ rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch27h264 swfUrl
 http:// 213.81.153.241/live001/channel001_p5.stream/DVR.m3u8v
 
 #EXTINF:0,tvg-id="EconomicaTV.pt" tvg-logo="http://tiagostv.pe.hu/economicotv",ECONOMICO TV
-http://213.13.26.41:1935/live/etv_direto/media_w54460224_213847.ts
+rtmp://213.13.26.13/live playpath=etv_direto swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 pageUrl=http://www.tvdesporto.info/economicotv.php conn=S:OK
 
 #EXTINF:0 tvg-logo="http://tiagostv.pe.hu/rainews",RAINEWS 24
 http://b2raiuslive-lh.akamaihd.net/z/rainews_1@106385/1800_f6b92607db806a33-p.bootstrap?g=VGIBFULWUMXY&primaryToken=1471608473_760fed93f3d78bed573e0dea269ab72d&hdcore=3.9.0&plugin=aasp-3.9.0.19.11
