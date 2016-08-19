@@ -58,7 +58,7 @@ rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUr
 http://tiagostv.pe.hu
 
 #EXTINF:-0 tvg-id="sporttv1.pt" tvg-logo="http://tiagostv.pe.hu/sportv1" ,SPORTV 1
-http://cdn.widestream.io:8081/shareedge/push-live1-rbi6c/chunks.m3u8?id=4513264&wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDE2IDEyOjI1OjMwIFBNJmhhc2hfdmFsdWU9WGkwZ1FMd0hxZGdqT1hLUTdCdGpjQT09JnZhbGlkbWludXRlcz0yMA==
+http://cdn.widestream.io:8081/shareedge/push-live1-rbi6c/chunks.m3u8?id=4521921&wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDE2IDQ6MTc6MTIgUE0maGFzaF92YWx1ZT1pOGJzeEFVYUhlZEduOTNab2hKVnd3PT0mdmFsaWRtaW51dGVzPTIw
 
 #EXTINF:-0 tvg-id="sporttv2.pt" tvg-logo="http://tiagostv.pe.hu/sportv2" ,SPORTV 2
 http://cdn.widestream.io:8081/shareedge/push-live2-bipmr/chunks.m3u8?id=4513338&wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDE2IDEyOjI4OjM1IFBNJmhhc2hfdmFsdWU9ZWw4cUpHM0xYOU1CZVh3S00xWnUvZz09JnZhbGlkbWludXRlcz0yMA==
