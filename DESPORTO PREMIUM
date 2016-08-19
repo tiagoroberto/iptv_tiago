@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="http://auvaromaia.com/wp-content/uploads/2013/04/Pfc1.jpg" group-title="ESPORTES",PREMIERE 1
-http://art.nextv.ca/nextv/pfci/index.m3u8
+http://cdn.widestream.io:8081/shareedge/push-live1-rbi6c/chunks.m3u8?id=4513264&wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDE2IDEyOjI1OjMwIFBNJmhhc2hfdmFsdWU9WGkwZ1FMd0hxZGdqT1hLUTdCdGpjQT09JnZhbGlkbWludXRlcz0yMA==
 
 #EXTINF:-1 tvg-logo="http://auvaromaia.com/wp-content/uploads/2013/04/Pfc1.jpg" group-title="ESPORTES",PREMIERE 2 
 http://213.163.65.9:8081/live/pfct/playlist.m3u8
