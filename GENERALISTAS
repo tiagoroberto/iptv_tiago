@@ -54,8 +54,8 @@ rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch1016h264H14 s
 #EXTINF:0 tvg-id="RTPAcores.pt" tvg-logo="http://tiagostv.pe.hu/rtpazores" , RTP AÇORES
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://kodiportugal.pt swfVfy=1 live=1 timeout=15
 
-
-
+#EXTINF:0 , [COLOR skyblue] DESPORTO PREMIUM [/COLOR]
+http://tiagostv.pe.hu
 
 
 
