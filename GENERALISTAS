@@ -70,15 +70,15 @@ http://cdn.widestream.io:8081/shareedge/push-live3-qszlx/chunks.m3u8?id=4513388&
 rtmp://31.220.2.87/privatestream/ playpath=dddd4uedifoekds?keys=g217QURsqkTkFPQBW5gz7Q&keyt=1471624436 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf pageUrl=http://privatestream.tv/player?streamname=dddd4uedifoekds&width=555&height=440 conn=S:OK
 
 #EXTINF:-0 tvg-id="sporttv5.pt" tvg-logo="http://tiagostv.pe.hu/sportv5" ,SPORTV 5
-http://cdn.widestream.io:8081/shareedge/push-live4-w04by/chunks.m3u8?id=4513424&wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDE2IDEyOjMzOjE3IFBNJmhhc2hfdmFsdWU9UWlkaWVITk1nT0VKRUpCbU1XVHppdz09JnZhbGlkbWludXRlcz0yMA==
+http://cdn.widestream.io:8081/shareedge/push-live4-w04by/chunks.m3u8?nimblesessionid=4537481&wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDE2IDY6MjY6MDIgUE0maGFzaF92YWx1ZT05UnNzOUZjWU0zVjlPd0dtQ1gvcG53PT0mdmFsaWRtaW51dGVzPTIw
 
 #EXTINF:-0 tvg-id="BenficaTV.pt" tvg-logo="http://tiagostv.pe.hu/btv1" ,BENFICA TV
-rtmp://178.162.202.6/live playpath=slboeri?id=251241&pk=c29319f8ccc4c4eb32e451edd8e7d38421bdf9c2199dbd1c214b980a5db3784f <swfUrl>http://www.mipsplayer.com/content/scripts/fplayer.swf <pageUrl>http://www.mipsplayer.com/embedplayer/slboeri/1/555/442
+rtmp://178.162.199.81/live/slboeri?id=251241&pk=c29319f8ccc4c4eb32e451edd8e7d38421bdf9c2199dbd1c214b980a5db3784f
 
 #EXTINF:-0 tvg-logo="http://tiagostv.pe.hu/racinguk" , RACING UK
 http://46.166.148.118:8081/live/196429.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDE2IDY6MjI6NTIgUE0maGFzaF92YWx1ZT0vUWZUVzFPT0ovcGUzcGw4TEdZWlB3PT0mdmFsaWRtaW51dGVzPTYw&wmsAuthSign2=NTVjMjU4NGQ3NzZlNQ==
 
-#EXTINF:-0 tvg-logo="http://tiagostv.pe.hu/attheraces" , AT THE RACES test
+#EXTINF:-0 tvg-logo="http://tiagostv.pe.hu/attheraces" , AT THE RACES 
 http://46.166.139.107:8081/live/196428.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDE2IDY6MTM6MzggUE0maGFzaF92YWx1ZT1aeEZPOXRXeHFhV05WY0xKNWpCbVp3PT0mdmFsaWRtaW51dGVzPTYw&wmsAuthSign2=NTVjMjU4MzFiMTgwMQ==
 
 #EXTINF:0 , [COLOR yellow] INFORMAÇÃO INTERNACIONAL [/COLOR]
