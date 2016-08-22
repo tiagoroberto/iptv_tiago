@@ -10,16 +10,22 @@ rtmp://178.162.193.26/stream playpath=SIC7373737311?id=27442&pk=c29319f8ccc4c4eb
 
 #EXTINF:0 tvg-id="TVI.pt" tvg-logo="http://tiagostv.pe.hu/tvi" , TVI
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8
-#EXTINF:-1,[COLOR lawngreen]• [COLOR white]CANAL PANDA[/COLOR]
+
+#EXTINF:0 tvg-id="canalpanda.pt" tvg-logo="http://goo.gl/pnPliK",CANAL PANDA
 http://83.78.191.43:2044/
-#EXTINF:-1,[COLOR lawngreen]• [COLOR white]CARTOON NETWORK[/COLOR]
+
+#EXTINF:0 tvg-id="CART" tvg-logo="http://goo.gl/Wid26S",CARTOON NETWORK
 http://83.78.191.43:2014/
-#EXTINF:-1,[COLOR lawngreen]• [COLOR white]DISNEY CHANNEL[/COLOR]
+
+#EXTINF:0 tvg-id="disneychannel.pt" tvg-logo="http://goo.gl/dz5O5Z",DISNEY CHANNEL
 http://83.78.191.43:2024/
-#EXTINF:-1,[COLOR lawngreen]• [COLOR white]JIMJAM[/COLOR]
+
+#EXTINF:0 tvg-id="JJAM" tvg-logo="http://goo.gl/xh58vX" ,JIMJAM
 http://83.78.191.43:2037/
-#EXTINF:-1,[COLOR lawngreen]• [COLOR white]SIC K[/COLOR]
+
+#EXTINF:0 tvg-id="disneychannel.pt" tvg-logo="http://goo.gl/CD4EZR",SIC K
 http://83.78.191.43:2059/
+
 #EXTINF:0 tvg-id="sicnoticias.pt" tvg-logo="http://tiagostv.pe.hu/sicnoticias" , SIC NOTICIAS
 http://213.13.26.11:1935/live/sicnoticias/KodiPortugal.pt.m3u8
 
@@ -76,7 +82,7 @@ rtmp://31.220.0.187/privatestream/ playpath=fawergge?keys=m9XpywLEZ6PEWN4ABZGQ4A
 rtmp://31.220.0.201/privatestream/ playpath=he56t5r6?keys=zn6rxx98EV1sAVl8kyDOBg&keyt=1471639453 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf pageUrl=http://privatestream.tv/player?streamname=he56t5r6&width=650&height=500 conn=S:OK
 
 #EXTINF:-0 tvg-id="sporttv3.pt" tvg-logo="http://tiagostv.pe.hu/sportv3" ,SPORTV 3
-http://cdn.widestream.io:8081/shareedge/push-live3-qszlx/chunks.m3u8?id=4544566&wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDE2IDY6NDc6MjEgUE0maGFzaF92YWx1ZT1YVUd1bUcvUGRrdjhtS0dDVCtEYmt3PT0mdmFsaWRtaW51dGVzPTIw
+http://bit.ly/2b40t0C
 
 #EXTINF:-0 tvg-id="sporttv4.pt" tvg-logo="http://tiagostv.pe.hu/sportv4" ,SPORTV 4
 rtmp://31.220.2.87/privatestream/ playpath=dddd4uedifoekds?keys=g217QURsqkTkFPQBW5gz7Q&keyt=1471624436 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf pageUrl=http://privatestream.tv/player?streamname=dddd4uedifoekds&width=555&height=440 conn=S:OK
