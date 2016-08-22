@@ -9,8 +9,17 @@ rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=
 rtmp://178.162.193.26/stream playpath=SIC7373737311?id=27442&pk=c29319f8ccc4c4eb32e451edd8e7d38421bdf9c2199dbd1c214b980a5db3784f swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf   live=1  pageUrl=http://www.liveflashplayer.net/embedplayer/SIC7373737311/1/565/440 conn=S:OK
 
 #EXTINF:0 tvg-id="TVI.pt" tvg-logo="http://tiagostv.pe.hu/tvi" , TVI
-http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
-
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8
+#EXTINF:-1,[COLOR lawngreen]• [COLOR white]CANAL PANDA[/COLOR]
+http://83.78.191.43:2044/
+#EXTINF:-1,[COLOR lawngreen]• [COLOR white]CARTOON NETWORK[/COLOR]
+http://83.78.191.43:2014/
+#EXTINF:-1,[COLOR lawngreen]• [COLOR white]DISNEY CHANNEL[/COLOR]
+http://83.78.191.43:2024/
+#EXTINF:-1,[COLOR lawngreen]• [COLOR white]JIMJAM[/COLOR]
+http://83.78.191.43:2037/
+#EXTINF:-1,[COLOR lawngreen]• [COLOR white]SIC K[/COLOR]
+http://83.78.191.43:2059/
 #EXTINF:0 tvg-id="sicnoticias.pt" tvg-logo="http://tiagostv.pe.hu/sicnoticias" , SIC NOTICIAS
 http://213.13.26.11:1935/live/sicnoticias/KodiPortugal.pt.m3u8
 
@@ -36,6 +45,9 @@ http://live-823.gv2.edge.filmon.com/live/21.low.stream/playlist.m3u8?id=0ad5aac3
 #EXTINF:0 tvg-id="" tvg-logo="http://tiagostv.pe.hu/tvireality" , TVI REALITY
 rtmp://107.182.234.180/live playpath=Realityzito?id=23967&pk=c29319f8ccc4c4eb32e451edd8e7d38421bdf9c2199dbd1c214b980a5db3784f swfUrl=http://www.streamifyplayer.com/resources/scripts/eplayer.swf pageUrl=http://www.streamifyplayer.com/embedplayer/Realityzito/1/540/442 conn=S:OK
 
+#EXTINF:0 tvg-id="TVIFiccao.pt" tvl-logo"" , TVI FICCAO
+http://83.78.191.43:2080/
+
 #EXTINF:0 tvg-id="PortoCanal.pt" tvg-logo="http://tiagostv.pe.hu/portocanal" , PORTO CANAL
 http://213.13.26.11:1935/live/portocanal/live.m3u8
 
@@ -43,7 +55,7 @@ http://213.13.26.11:1935/live/portocanal/live.m3u8
 http://www.t12v.com:8000/live/prevot/prevot/1422.ts
  
 #EXTINF:0 tvg-id="sicradical.pt" tvg-logo="http://tiagostv.pe.hu/sicradical" , SIC RADICAL
-
+http://83.78.191.43:2061/
 
 #EXTINF:0 tvg-id="rtpmemoria.pt" tvg-logo="http://tiagostv.pe.hu/rtpmemoria" , RTP MEMORIA
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch80h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://kodiportugal.pt swfVfy=1 live=1 timeout=15
@@ -81,8 +93,6 @@ http://46.166.148.118:8081/live/196429.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8y
 #EXTINF:-0 tvg-logo="http://tiagostv.pe.hu/attheraces" , AT THE RACES 
 http://46.166.139.107:8081/live/196428.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDE2IDY6MTM6MzggUE0maGFzaF92YWx1ZT1aeEZPOXRXeHFhV05WY0xKNWpCbVp3PT0mdmFsaWRtaW51dGVzPTYw&wmsAuthSign2=NTVjMjU4MzFiMTgwMQ==
 
-#EXTINF:0 , [COLOR yellow] INFORMAÇÃO INTERNACIONAL [/COLOR]
-http://tiagostv.pe.hu
 
 #EXTINF:0 tvg-logo="http://tiagostv.pe.hu/recordnews",RECORD NEWS
 http://euronews-live-p5-cdn.hexaglobe.net/c82b95f517f5590a8e55f5f34cc92c48/57a85a00/euronews/ewnslivebkp_por.smil/ewnslivebkp_por_540p.m3u8
